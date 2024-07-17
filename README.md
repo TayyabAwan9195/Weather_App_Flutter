@@ -1,14 +1,16 @@
-# Weather_App_Flutter
-A sleek and intuitive Flutter app providing real-time weather updates and forecasts using the OpenWeather API. Search by city to stay updated with the latest weather information effortlessly!
-# Weather App in Flutter
+# weather_app
 
-## How to Run This Project
+A new Flutter project.
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/weather_app_flutter.git
-   cd weather_app_flutter
-   Afterwards 
-flutter pub get
-Run Project 
-flutter run lib/main.dart
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
